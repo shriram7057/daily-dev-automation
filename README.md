@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/docs/detailed-report.pdf">
+  <a href="https://github.com/shriram7057/shriram7057/blob/22cc78cf0281155b1e357eaf040c15f10ea1298b/Daily_Dev_Automation_Report.pdf">
     <img
       src="https://img.shields.io/badge/📊%20VIEW%20DETAILED%20REPORT📑-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFFFFF&labelColor=DC2626&color=06B6D4"
       alt="Detailed Report"
